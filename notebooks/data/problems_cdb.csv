@@ -1,0 +1,18 @@
+cui,name,ontologies,name_status
+59927004,hepatic failure,SNO,P
+59927004,hepatic insufficiency,SNO,A
+59927004,liver function failure,SNO,A
+59927004,liver decompensation,SNO,A
+59927004,liver failure,SNO,A
+394924000,symptoms of depression,SNO,P
+394924000,depressive symptoms,SNO,A
+396275006,osteoarthritis,SNO,P
+396275006,oa - osteoarthritis,SNO,A
+563001,nystagmus,SNO,P
+1415005,lymphangitis,SNO,P
+3723001,arthritis,SNO,P
+3723001,joint inflammation,SNO,A
+3723001,inflammatory arthritis,SNO,A
+3723001,inflammation joint,SNO,A
+3723001,arthritis inflammatory,SNO,A
+4556007,gastritis,SNO,P

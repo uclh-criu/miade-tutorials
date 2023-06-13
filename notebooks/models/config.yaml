@@ -1,6 +1,8 @@
 models:
-  problems: df349473b9d260a9
-  meds/allergies: 75e13bf042cc55b8
+  problems: f25ec9423958e8d6
+  meds/allergies: a146c741501cf1f7
+  custom: a146c741501cf1f7
 annotators:
   problems: ProblemsAnnotator
   meds/allergies: MedsAllergiesAnnotator
+  custom: CustomAnnotator

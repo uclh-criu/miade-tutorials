@@ -1,31 +1,6 @@
-> NOTE: Remember to change the project name in src/setup.py and to rename /src/my_package to your package's name!
+# MiADE Tutorials
 
-# Title (change me!)
+MiADE notebook tutorial intended for demo session at HealTAC 2023
 
-[add overview here]
-
-## Contents
-
-## Contributors
-
-| Name | Email |
-|------|-------|
-|      |       |
-
-## Installing
-
-```bash
-pip install -e .
-```
-The `-e` flag sets the install to auto-update, useful when developing. Remove for production.
-
-## Testing
-
-This project uses pytest tests, which can be run with:
-```bash
-pytest ./tests/*
-```
-
-## Contributing
 
 ## Licence
